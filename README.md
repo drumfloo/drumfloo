@@ -1,34 +1,8 @@
 ## Hello There... And Welcome
+ This site an my activity are now running on codeberg.org
+ https://codeberg.org/drumfloo
 
-Hi, I'm drumfloo, a recently graduated software developer. I am open for cooperations and collaborative projects.
-
-
-
-<!--
-**drumfloo/drumfloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-## My Current Techstack
-[![My Skills](https://skillicons.dev/icons?i=angular,html,js,css,git,mysql,postgres,nodejs,py,ts,vscode&perline=5)](https://skillicons.dev)
-
-
-
-### And A Little Bit Of 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-## My OS
-(Learning Never Stops)
-
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-### I'm Also Playing Arround With 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
+ Try to scan this, Microsoft
 
 <!--
 
